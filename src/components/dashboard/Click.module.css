@@ -1,0 +1,10 @@
+.intro1 {
+  display: block;
+  height: DYNAMIC;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  visibility: visible;
+  width: DYNAMIC;
+  z-index: 100;
+}
